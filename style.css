@@ -30,4 +30,3 @@ marker1.bindPopup("<b>Hello world! I'm marker 1</b><br>I am a popup.").openPopup
 
 marker2.bindPopup("<b>Hello world!</b><br>I am marker 2.").openPopup();
 
-circle.bindPopu
